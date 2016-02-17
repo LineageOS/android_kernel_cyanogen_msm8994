@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_38cfa080",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 14145
+      },
+      "writtenOn": "2016-02-17T11:15:58Z",
+      "side": 1,
+      "message": "Note, there are no new WLAN changes in this tag, so there\u0027s no need to pick up a new snapshot of qcacld-2..0 from https://www.codeaurora.org/cgit/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-2.0/log/?h\u003dLA.BF64.1.2.2-03240-8x94.0",
+      "revId": "8cd40e22341309d85934ec0e44f3fda4350fe278",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
